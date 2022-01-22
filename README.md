@@ -1,3 +1,3 @@
 # VueJS + PHP Basic
-Belajar dasar VueJS dan PHP sebagai backend untuk menampilkan, menambah, dan menghapus data.
+Belajar dasar VueJS dan PHP sebagai backend untuk menampilkan, menambah, dan menghapus data. <br>
 Mangga dicobian
